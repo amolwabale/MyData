@@ -1,0 +1,67 @@
+16-Jul-2017 09:18:33 AM | INFO  | [Database.Backup.Ui.BackupSettings.BackupSettings_Load] - Backup Settings form opened
+16-Jul-2017 09:18:48 AM | INFO  | [Database.Backup.Ui.BackupSettings.BackupSettings_Load] - Backup Settings form opened
+16-Jul-2017 09:18:53 AM | INFO  | [Database.Backup.Ui.BackupSettings.SaveBackupSettings_DoWork] - Connection successfully tested for server:Sipl1234, Uid:sa, Pwd:Sipl1234
+16-Jul-2017 09:18:53 AM | INFO  | [Database.Backup.Ui.BackupSettings.SaveBackupSettings_RunWorkerCompleted] - New backup settings saved
+16-Jul-2017 09:18:57 AM | ERROR | [Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork] - System.IO.FileNotFoundException: Could not find file 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'.
+File name: 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork(Object sender, DoWorkEventArgs e) in e:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\Dashboard.cs:line 120
+16-Jul-2017 09:19:09 AM | ERROR | [Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork] - System.IO.FileNotFoundException: Could not find file 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'.
+File name: 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork(Object sender, DoWorkEventArgs e) in e:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\Dashboard.cs:line 120
+16-Jul-2017 09:19:09 AM | ERROR | [Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork] - System.IO.FileNotFoundException: Could not find file 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'.
+File name: 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork(Object sender, DoWorkEventArgs e) in e:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\Dashboard.cs:line 120
+16-Jul-2017 09:23:13 AM | ERROR | [Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork] - System.IO.FileNotFoundException: Could not find file 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'.
+File name: 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork(Object sender, DoWorkEventArgs e) in e:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\Dashboard.cs:line 127
+16-Jul-2017 09:24:04 AM | ERROR | [Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork] - System.IO.FileNotFoundException: Could not find file 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'.
+File name: 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork(Object sender, DoWorkEventArgs e) in e:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\Dashboard.cs:line 127
+16-Jul-2017 09:26:03 AM | ERROR | [Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork] - System.IO.FileNotFoundException: Could not find file 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'.
+File name: 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork(Object sender, DoWorkEventArgs e) in e:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\Dashboard.cs:line 127
+16-Jul-2017 09:26:35 AM | ERROR | [Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork] - System.IO.FileNotFoundException: Could not find file 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'.
+File name: 'E:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\bin\Debug\App_Data\MailConfig.dat'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at Database.Backup.Ui.Dashboard.SendZipPasswordWorker_DoWork(Object sender, DoWorkEventArgs e) in e:\IT\Project\Database Backup Utility\Src\1.Database.Backup.FrontEnd\Database.Backup.Ui\Dashboard.cs:line 127

@@ -1,0 +1,61 @@
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\Database.Backup.Core.dll
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\Database.Backup.Core.pdb
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\log4net.dll
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\obj\Debug\Database.Backup.Core.dll
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\obj\Debug\Database.Backup.Core.pdb
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.dll
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.pdb
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\log4net.dll
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.dll
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.pdb
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.pdb
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.pdb
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\log4net.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Ionic.Zip.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.pdb
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Ionic.Zip.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\log4net.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.pdb
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Microsoft.CSharp.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Data.DataSetExtensions.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Data.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Xml.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Xml.Linq.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.csprojResolveAssemblyReference.cache
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Microsoft.CSharp.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Data.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Xml.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Xml.Linq.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.csprojResolveAssemblyReference.cache
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.pdb
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Ionic.Zip.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\log4net.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Microsoft.CSharp.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Data.DataSetExtensions.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Data.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Xml.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Xml.Linq.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.csprojResolveAssemblyReference.cache
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.pdb
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Database.Backup.Core.pdb
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Ionic.Zip.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\log4net.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\Microsoft.CSharp.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Data.DataSetExtensions.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Data.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Xml.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\bin\Debug\System.Xml.Linq.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.dll
+E:\IT\Project\Database Backup Utility\Src\3.Database.Backup.Libraries\Database.Backup.Core\obj\Debug\Database.Backup.Core.pdb

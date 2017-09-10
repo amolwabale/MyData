@@ -1,0 +1,9 @@
+15-Jul-2017 08:17:12 PM | INFO  | [Database.Backup.Ui.BackupSettings.BackupSettings_Load] - Backup Settings form opened
+15-Jul-2017 08:17:20 PM | INFO  | [Database.Backup.Ui.MailSettings.MailSettings_Load] - Mail settings form opened
+15-Jul-2017 11:37:23 PM | INFO  | [Database.Backup.Ui.BackupSettings.BackupSettings_Load] - Backup Settings form opened
+15-Jul-2017 11:37:25 PM | INFO  | [Database.Backup.Ui.BackupSettings.CheckDatabaseConnection_DoWork] - Connection successfully tested for server:Sipl1234, Uid:sa, Pwd:Sipl1234
+15-Jul-2017 11:37:28 PM | INFO  | [Database.Backup.Ui.BackupSettings.SaveBackupSettings_DoWork] - Connection successfully tested for server:Sipl1234, Uid:sa, Pwd:Sipl1234
+15-Jul-2017 11:37:41 PM | INFO  | [Database.Backup.Ui.BackupSettings.SaveBackupSettings_DoWork] - Connection successfully tested for server:Sipl1234, Uid:sa, Pwd:Sipl1234
+15-Jul-2017 11:37:42 PM | INFO  | [Database.Backup.Ui.BackupSettings.SaveBackupSettings_RunWorkerCompleted] - New backup settings saved
+15-Jul-2017 11:37:49 PM | INFO  | [Database.Backup.Ui.BackupSettings.BackupSettings_Load] - Backup Settings form opened
+15-Jul-2017 11:37:55 PM | INFO  | [Database.Backup.Ui.MailSettings.MailSettings_Load] - Mail settings form opened

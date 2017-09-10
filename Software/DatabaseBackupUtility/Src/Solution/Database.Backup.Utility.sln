@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Database.Backup.FrontEnd", "1.Database.Backup.FrontEnd", "{B3B8E756-05AB-4D4C-935F-615738AB7CE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Database.Backup.BackEnd", "2.Database.Backup.BackEnd", "{7BCDFAEF-FB65-49E4-A3F1-54341B6C7FC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Database.Backup.Libraries", "3.Database.Backup.Libraries", "{01A7AFB3-6808-4394-A22C-1D5104C81332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database.Backup.Ui", "..\1.Database.Backup.FrontEnd\Database.Backup.Ui\Database.Backup.Ui.csproj", "{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{39C0310D-D109-469E-A676-5C56D4D152F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{70E709B6-DDF6-4A98-BA72-01E512372134}"
+	ProjectSection(SolutionItems) = preProject
+		References\Ionic.Zip.dll = References\Ionic.Zip.dll
+		References\log4net.dll = References\log4net.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database.Backup.Service", "..\2.Database.Backup.BackEnd\Database.Backup.Service\Database.Backup.Service.csproj", "{807DFCBD-6F05-4838-A26A-7960FF13EA05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database.Backup.Core", "..\3.Database.Backup.Libraries\Database.Backup.Core\Database.Backup.Core.csproj", "{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{7BF40665-83F2-4AAD-ADC8-FDD1623DF1B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Setup", "Setup", "{92C406FD-FD01-4BB9-B6E5-CF433069858F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Debug|x86.ActiveCfg = Debug|x86
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Debug|x86.Build.0 = Debug|x86
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Release|Any CPU.ActiveCfg = Release|x86
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Release|Mixed Platforms.Build.0 = Release|x86
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Release|x86.ActiveCfg = Release|x86
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE}.Release|x86.Build.0 = Release|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Debug|x86.ActiveCfg = Debug|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Debug|x86.Build.0 = Debug|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Release|Any CPU.ActiveCfg = Release|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Release|Mixed Platforms.Build.0 = Release|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Release|x86.ActiveCfg = Release|x86
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05}.Release|x86.Build.0 = Release|x86
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{08B9F6DC-8C8C-4870-AE89-E05CCED2B2FE} = {B3B8E756-05AB-4D4C-935F-615738AB7CE0}
+		{807DFCBD-6F05-4838-A26A-7960FF13EA05} = {7BCDFAEF-FB65-49E4-A3F1-54341B6C7FC0}
+		{B8F0FBB7-8F8D-4FC6-B99A-42FF48318848} = {01A7AFB3-6808-4394-A22C-1D5104C81332}
+		{70E709B6-DDF6-4A98-BA72-01E512372134} = {39C0310D-D109-469E-A676-5C56D4D152F2}
+		{92C406FD-FD01-4BB9-B6E5-CF433069858F} = {7BF40665-83F2-4AAD-ADC8-FDD1623DF1B7}
+	EndGlobalSection
+EndGlobal

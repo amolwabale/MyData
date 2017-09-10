@@ -1,0 +1,14 @@
+D:\Amol Wabale\MyProjects\Database.Backup.Utility\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\Database.Back.Core.dll
+D:\Amol Wabale\MyProjects\Database.Backup.Utility\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\Database.Back.Core.pdb
+D:\Amol Wabale\MyProjects\Database.Backup.Utility\3.Database.Back.Libraries\Database.Back.Core\obj\Debug\Database.Back.Core.dll
+D:\Amol Wabale\MyProjects\Database.Backup.Utility\3.Database.Back.Libraries\Database.Back.Core\obj\Debug\Database.Back.Core.pdb
+D:\Amol Wabale\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\Database.Back.Core.dll
+D:\Amol Wabale\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\Database.Back.Core.pdb
+D:\Amol Wabale\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\log4net.dll
+D:\Amol Wabale\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\obj\Debug\Database.Back.Core.dll
+D:\Amol Wabale\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\obj\Debug\Database.Back.Core.pdb
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\Database.Back.Core.dll
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\Database.Back.Core.pdb
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\bin\Debug\log4net.dll
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\obj\Debug\Database.Back.Core.dll
+C:\MyData\MyProjects\Database.Backup.Utility\Src\3.Database.Back.Libraries\Database.Back.Core\obj\Debug\Database.Back.Core.pdb

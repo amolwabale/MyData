@@ -1,0 +1,154 @@
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe.config
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.config
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.pdb
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Microsoft.CSharp.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Configuration.Install.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.DataSetExtensions.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Management.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.ServiceProcess.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.Linq.dll
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.pdb
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csprojResolveAssemblyReference.cache
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.ProjectInstaller.resources
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csproj.GenerateResource.Cache
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.exe
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.pdb
+D:\Amol Wabale\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Ionic.Zip.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.config
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe.config
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.pdb
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Microsoft.CSharp.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Configuration.Install.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.DataSetExtensions.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Management.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.ServiceProcess.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.Linq.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Ionic.Zip.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.pdb
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csprojResolveAssemblyReference.cache
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.ProjectInstaller.resources
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csproj.GenerateResource.Cache
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.exe
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.pdb
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.config
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe.config
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.pdb
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Microsoft.CSharp.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Configuration.Install.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.DataSetExtensions.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Management.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.ServiceProcess.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.Linq.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Ionic.Zip.dll
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.pdb
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csprojResolveAssemblyReference.cache
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.ProjectInstaller.resources
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csproj.GenerateResource.Cache
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.exe
+C:\MyData\MyProjects\Live\Database.Backup.Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.pdb
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.config
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe.config
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.pdb
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Microsoft.CSharp.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Configuration.Install.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.DataSetExtensions.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Management.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.ServiceProcess.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.Linq.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Ionic.Zip.dll
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.pdb
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csprojResolveAssemblyReference.cache
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.ProjectInstaller.resources
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csproj.GenerateResource.Cache
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.exe
+E:\IT\Project\Database Backup Utility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.pdb
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.config
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe.config
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.pdb
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Microsoft.CSharp.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Configuration.Install.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.DataSetExtensions.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Management.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.ServiceProcess.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.Linq.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Ionic.Zip.dll
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.pdb
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csprojResolveAssemblyReference.cache
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.ProjectInstaller.resources
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csproj.GenerateResource.Cache
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.exe
+E:\IT\Project\Database Backup Utility\Src\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.pdb
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.config
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe.config
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.pdb
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Microsoft.CSharp.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Configuration.Install.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.DataSetExtensions.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Management.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.ServiceProcess.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.Linq.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Ionic.Zip.dll
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.pdb
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csprojResolveAssemblyReference.cache
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.ProjectInstaller.resources
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csproj.GenerateResource.Cache
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.exe
+E:\IT\Project\GitHub\DatabaseBackupUtility\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.pdb
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.config
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe.config
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.exe
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Service.pdb
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\log4net.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Microsoft.CSharp.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Configuration.Install.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.DataSetExtensions.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Data.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Management.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.ServiceProcess.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\System.Xml.Linq.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Ionic.Zip.dll
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\bin\Release\Database.Backup.Core.pdb
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csprojResolveAssemblyReference.cache
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.ProjectInstaller.resources
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.csproj.GenerateResource.Cache
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.exe
+E:\IT\GitHub\DatabaseBackupUtility\Src\2.Database.Backup.BackEnd\Database.Backup.Service\obj\x86\Release\Database.Backup.Service.pdb
