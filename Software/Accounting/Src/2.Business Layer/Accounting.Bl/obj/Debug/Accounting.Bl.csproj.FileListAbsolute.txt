@@ -1,0 +1,9 @@
+E:\IT\Project\Accounting\2.Business Layer\Accounting.Bl\bin\Debug\Accounting.Bl.dll
+E:\IT\Project\Accounting\2.Business Layer\Accounting.Bl\bin\Debug\Accounting.Bl.pdb
+E:\IT\Project\Accounting\2.Business Layer\Accounting.Bl\bin\Debug\Accounting.Dl.dll
+E:\IT\Project\Accounting\2.Business Layer\Accounting.Bl\bin\Debug\Accounting.Dl.Model.dll
+E:\IT\Project\Accounting\2.Business Layer\Accounting.Bl\bin\Debug\Accounting.Dl.Model.pdb
+E:\IT\Project\Accounting\2.Business Layer\Accounting.Bl\bin\Debug\Accounting.Dl.pdb
+E:\IT\Project\Accounting\2.Business Layer\Accounting.Bl\obj\Debug\Accounting.Bl.csprojResolveAssemblyReference.cache
+E:\IT\Project\Accounting\2.Business Layer\Accounting.Bl\obj\Debug\Accounting.Bl.dll
+E:\IT\Project\Accounting\2.Business Layer\Accounting.Bl\obj\Debug\Accounting.Bl.pdb

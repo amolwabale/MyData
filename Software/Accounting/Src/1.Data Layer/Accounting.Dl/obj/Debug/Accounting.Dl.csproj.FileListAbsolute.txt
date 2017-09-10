@@ -1,0 +1,5 @@
+E:\IT\Project\Accounting\1.Data Layer\Accounting.Dl\bin\Debug\Accounting.Dl.dll
+E:\IT\Project\Accounting\1.Data Layer\Accounting.Dl\bin\Debug\Accounting.Dl.pdb
+E:\IT\Project\Accounting\1.Data Layer\Accounting.Dl\obj\Debug\Accounting.Dl.csprojResolveAssemblyReference.cache
+E:\IT\Project\Accounting\1.Data Layer\Accounting.Dl\obj\Debug\Accounting.Dl.dll
+E:\IT\Project\Accounting\1.Data Layer\Accounting.Dl\obj\Debug\Accounting.Dl.pdb

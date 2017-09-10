@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AEF9CEC4-A054-463E-A11F-4E998D1F03A7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Accounting.Ui.Forms.MainApp</RootNamespace>
+    <AssemblyName>Accounting.Ui.Forms.MainApp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice.Designer.cs">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items.Designer.cs">
+      <DependentUpon>Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MastersCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MastersCompany.Designer.cs">
+      <DependentUpon>MastersCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MastersCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MastersCustomers.Designer.cs">
+      <DependentUpon>MastersCustomers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MastersItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MastersItem.Designer.cs">
+      <DependentUpon>MastersItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MastersTax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MastersTax.Designer.cs">
+      <DependentUpon>MastersTax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MastersTransportModes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MastersTransportModes.Designer.cs">
+      <DependentUpon>MastersTransportModes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MastersUnit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MastersUnit.Designer.cs">
+      <DependentUpon>MastersUnit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MastersVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MastersVehicle.Designer.cs">
+      <DependentUpon>MastersVehicle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicle.Designer.cs">
+      <DependentUpon>Vehicle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Customers.resx">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice.resx">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items.resx">
+      <DependentUpon>Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MastersCompany.resx">
+      <DependentUpon>MastersCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MastersCustomers.resx">
+      <DependentUpon>MastersCustomers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MastersItem.resx">
+      <DependentUpon>MastersItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MastersTax.resx">
+      <DependentUpon>MastersTax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MastersTransportModes.resx">
+      <DependentUpon>MastersTransportModes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MastersUnit.resx">
+      <DependentUpon>MastersUnit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MastersVehicle.resx">
+      <DependentUpon>MastersVehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicle.resx">
+      <DependentUpon>Vehicle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Items2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Invoice1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-hd-background-background-wallpapers-abstract-photo-cool-black-background_3ZhiVLk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abstract_color_background_picture_8016-wide_OkjA4v9 - Copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\AppData.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\new-reswallpaper-preview.png" />
+    <None Include="Resources\Add1.png" />
+    <None Include="Resources\Add.png" />
+    <None Include="Resources\save32.png" />
+    <None Include="Resources\back32.png" />
+    <None Include="Resources\Edit2.png" />
+    <None Include="Resources\Cancel.png" />
+    <None Include="Resources\Save.png" />
+    <None Include="Resources\Back1.png" />
+    <None Include="Resources\Delete1.png" />
+    <None Include="Resources\Edit1.png" />
+    <None Include="Resources\AddCustomer3.png" />
+    <None Include="Resources\Back.png" />
+    <None Include="Resources\Delete.png" />
+    <None Include="Resources\Edit.png" />
+    <None Include="Resources\AddCustomer2.png" />
+    <None Include="Resources\AddCustomer1.png" />
+    <None Include="Resources\AddCustomer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\1.Data Layer\Accounting.Dl.Model\Accounting.Dl.Model.csproj">
+      <Project>{a405dcdf-c62a-4cfa-a206-fd2e40360850}</Project>
+      <Name>Accounting.Dl.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\2.Business Layer\Accounting.Bl\Accounting.Bl.csproj">
+      <Project>{1a0edf32-d62f-425d-91c5-4dd6b3a7c3a3}</Project>
+      <Name>Accounting.Bl</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PreBuildEvent>if exist "$(TargetPath).locked" del "$(TargetPath).locked"
+if exist "$(TargetPath)" if not exist "$(TargetPath).locked" move "$(TargetPath)" "$(TargetPath).locked"</PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
