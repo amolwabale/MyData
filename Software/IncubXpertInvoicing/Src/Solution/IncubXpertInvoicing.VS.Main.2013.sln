@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Data Layer", "1.Data Layer", "{6730636F-D462-4B51-8DEA-1056EA1B2AEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Business Layer", "2.Business Layer", "{40F7279E-D4F4-4A2A-A468-387FE984AAC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Service Layer", "3.Service Layer", "{30FB3221-E906-4594-A275-E500500E72EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Ui Layer", "4.Ui Layer", "{1B15FA68-DE55-4E04-A676-2DC0FD68135E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Common Layer", "5.Common Layer", "{05BC529F-44D8-46B4-8FBB-F4FEB2052DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncubXpertInvoicing.Ui.Mvc", "..\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\IncubXpertInvoicing.Ui.Mvc.csproj", "{3B0E8B30-6122-4C4D-A64F-84F327DA5090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncubXpertInvoicing.Ui.Mvc.Tests", "..\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\IncubXpertInvoicing.Ui.Mvc.Tests.csproj", "{54054653-1E70-4406-A990-71822ECF036B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncubXpertInvoicing.Dl", "..\1.Data Layer\IncubXpertInvoicing.Dl\IncubXpertInvoicing.Dl.csproj", "{67AA1915-F14D-4F6C-B2EF-2496EF4C36DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0E8B30-6122-4C4D-A64F-84F327DA5090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0E8B30-6122-4C4D-A64F-84F327DA5090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0E8B30-6122-4C4D-A64F-84F327DA5090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0E8B30-6122-4C4D-A64F-84F327DA5090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54054653-1E70-4406-A990-71822ECF036B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54054653-1E70-4406-A990-71822ECF036B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54054653-1E70-4406-A990-71822ECF036B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54054653-1E70-4406-A990-71822ECF036B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AA1915-F14D-4F6C-B2EF-2496EF4C36DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AA1915-F14D-4F6C-B2EF-2496EF4C36DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AA1915-F14D-4F6C-B2EF-2496EF4C36DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AA1915-F14D-4F6C-B2EF-2496EF4C36DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{67AA1915-F14D-4F6C-B2EF-2496EF4C36DD} = {6730636F-D462-4B51-8DEA-1056EA1B2AEC}
+		{3B0E8B30-6122-4C4D-A64F-84F327DA5090} = {1B15FA68-DE55-4E04-A676-2DC0FD68135E}
+		{54054653-1E70-4406-A990-71822ECF036B} = {1B15FA68-DE55-4E04-A676-2DC0FD68135E}
+	EndGlobalSection
+EndGlobal
