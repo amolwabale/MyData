@@ -7,3 +7,13 @@ C:\Users\amol.w\Desktop\IncubXperts\Asp.net MVC\Project\IncubXpertInvoicing\1.Da
 C:\Users\amol.w\Desktop\IncubXperts\Asp.net MVC\Project\IncubXpertInvoicing\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\amol.w\Desktop\IncubXperts\Asp.net MVC\Project\IncubXpertInvoicing\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.xml
 C:\Users\amol.w\Desktop\IncubXperts\Asp.net MVC\Project\IncubXpertInvoicing\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.SqlServer.xml
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\IncubXpertInvoicing.Dl.dll.config
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\IncubXpertInvoicing.Dl.dll
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\IncubXpertInvoicing.Dl.pdb
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.dll
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.SqlServer.dll
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.xml
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.SqlServer.xml
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\obj\Debug\IncubXpertInvoicing.Dl.dll
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\obj\Debug\IncubXpertInvoicing.Dl.pdb
+E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\obj\Debug\IncubXpertInvoicing.Dl.csprojResolveAssemblyReference.cache

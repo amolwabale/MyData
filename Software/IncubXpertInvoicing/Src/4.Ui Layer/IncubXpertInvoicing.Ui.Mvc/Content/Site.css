@@ -9,6 +9,19 @@ header, footer, nav, section {
     display: block;
 }
 
+.sidebar
+{
+    padding:10px;
+    border-bottom:solid 1px #ddd !important;
+    list-style-type: none;
+    cursor:pointer;
+}
+
+.sidebar.active
+{
+    border-left:solid 5px green;
+    background-color:#ddd;
+}
 
 /* Styles for basic forms
 -----------------------------------------------------------*/

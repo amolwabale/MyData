@@ -9,7 +9,10 @@ namespace IncubXpertInvoicing.Ui.Mvc
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/jquery-1.8.2.js"));
+                        "~/Scripts/jquery-3.2.1.js",
+                        "~/Scripts/popper.js",
+                        "~/Scripts/bootstrap.js",
+                        "~/Scripts/Global.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryui").Include(
                         "~/Scripts/jquery-ui-{version}.js"));
