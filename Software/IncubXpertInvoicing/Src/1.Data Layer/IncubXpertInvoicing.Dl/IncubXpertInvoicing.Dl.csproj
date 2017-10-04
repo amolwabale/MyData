@@ -75,6 +75,7 @@
     <Compile Include="Context\OrderLineItem.cs">
       <DependentUpon>IncubXpertInvoicing.tt</DependentUpon>
     </Compile>
+    <Compile Include="ModelEx\OrderSearch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
