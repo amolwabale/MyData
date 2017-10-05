@@ -7,27 +7,27 @@ using System.Text;
 
 namespace IncubXpertInvoicing.Bl
 {
-    public class OrderBl
+    public class ProductMasterBl
     {
-
-        public static DataTableResponse GetOrderList(DataTableRequest dtParam)
+        public static DataTableResponse GetProductMasterList(DataTableRequest dtParam)
         {
             using (var dbInvoice = new IncubXpertInvoicingDb())
             {
-                IQueryable<Order> OrdersQuery = dbInvoice.Orders.AsNoTracking();
+                IQueryable<MasterProduct> MasterProductQuery = dbInvoice.MasterProducts.AsNoTracking();
 
-                OrdersQuery = OrdersQuery.OrderByDescending(m => m.Id);
+                MasterProductQuery = MasterProductQuery.OrderByDescending(m => m.Id);
 
-                var totalCount = OrdersQuery.Count();
+                var totalCount = MasterProductQuery.Count();
 
-                var OrderList = OrdersQuery.Skip(dtParam.start)
+                var OrderList = MasterProductQuery.Skip(dtParam.start)
                                                     .Take(dtParam.length).ToList();
 
                 var List = OrderList.Select(c => new[] {
                                                     c.Id.ToString(),
-                                                    c.OrderDate,
-                                                    c.ScheduledDeliveryDate.ToString(), 
-                                                    c.TotalGst.ToString()});
+                                                    c.ProductName,
+                                                    c.Category.ToString(), 
+                                                    c.Rate.ToString(),
+                                                    c.GstRate.ToString()});
 
                 var dtResponse = new DataTableResponse()
                 {
@@ -40,6 +40,5 @@ namespace IncubXpertInvoicing.Bl
             }
 
         }
-
     }
 }

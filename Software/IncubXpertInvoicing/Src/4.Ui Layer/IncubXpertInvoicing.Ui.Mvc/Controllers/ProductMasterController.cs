@@ -8,24 +8,24 @@ using System.Web.Mvc;
 
 namespace IncubXpertInvoicing.Ui.Mvc.Controllers
 {
-    public class OrderController : Controller
+    public class ProductMasterController : Controller
     {
         //
-        // GET: /Order/
+        // GET: /ProductMaster/
 
         public ActionResult Index()
         {
-            return View("OrderSearch");
+            return View("ProductMasterSearch");
         }
 
-        public ActionResult OrderDetail()
+        public ActionResult ProductMasterDetail()
         {
-            return View("OrderDetail");
+            return View("ProductMasterDetail");
         }
 
-        public JsonResult GetOrderList( DataTableRequest dtParam)
+        public JsonResult GetProductMasterList(DataTableRequest dtParam)
         {
-            var dtResponse = OrderBl.GetOrderList(dtParam);
+            var dtResponse = ProductMasterBl.GetProductMasterList(dtParam);
             return Json(dtResponse, JsonRequestBehavior.AllowGet);
         }
 

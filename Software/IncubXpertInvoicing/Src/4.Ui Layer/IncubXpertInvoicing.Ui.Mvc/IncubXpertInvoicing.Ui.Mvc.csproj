@@ -136,6 +136,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\OrderController.cs" />
+    <Compile Include="Controllers\ProductMasterController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -233,6 +234,8 @@
     <Content Include="Scripts\_references.js" />
     <Content Include="Views\Order\OrderDetail.js" />
     <Content Include="Views\Order\OrderSearch.js" />
+    <Content Include="Views\ProductMaster\ProductMasterDetail.js" />
+    <Content Include="Views\ProductMaster\ProductMasterSearch.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -246,6 +249,8 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Order\OrderSearch.cshtml" />
     <Content Include="Views\Order\OrderDetail.cshtml" />
+    <Content Include="Views\ProductMaster\ProductMasterSearch.cshtml" />
+    <Content Include="Views\ProductMaster\ProductMasterDetail.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

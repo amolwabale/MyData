@@ -1,0 +1,40 @@
+﻿@model IncubXpertInvoicing.Dl.Context.Order
+
+@{
+    ViewBag.Title = "Product Master";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table id="idProductMasterTable" style="width: 100%;" class="table table-condensed table-hover">
+    <thead>
+        <tr class="">
+            <th>
+                <a id="idAddProductMaster" href="/ProductMaster/ProductMasterDetail"
+                   title="Add New Product" class="btn btn-primary btn-sm">
+                    <span class="fa fa-plus"></span>&nbsp&nbsp&nbspNew
+                </a>
+            </th>
+            <td style="">
+                @Html.Label("Product Id")
+            </td>
+            <td style="">
+                @Html.Label("Product Name")
+            </td>
+            <td style="">
+                @Html.Label("Category")
+            </td>
+            <td style="">
+                @Html.Label("Rate")
+            </td>
+            <td style="">
+                @Html.Label("GST Rate")
+            </td>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+
+@section Scripts {
+    @Scripts.Render("~/Views/ProductMaster/ProductMasterSearch.js")
+}
