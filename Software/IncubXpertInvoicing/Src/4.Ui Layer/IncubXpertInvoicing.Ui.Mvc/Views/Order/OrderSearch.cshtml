@@ -1,0 +1,37 @@
+﻿@model IncubXpertInvoicing.Dl.Context.Order
+
+@{
+    ViewBag.Title = "OrderSearch";
+}
+
+<table id="idOrderTable" style="width: 100%;" class="table table-condensed table-hover">
+    <thead>
+        <tr class="">
+            <th>
+                <button type="button" id="idAddOrder" href="javascript:void(0);"
+                        title="Add New Order" class="btn btn-primary btn-sm">
+                    <span class="fa fa-plus"></span>New
+                </button>
+            </th>
+            <th style="">
+                @Html.Label("Order Id")
+            </th>
+            <th style="">
+                @Html.Label("Order Date")
+            </th>
+            <th style="">
+                @Html.Label("Customer Name")
+            </th>
+            <th style="">
+                @Html.Label("Scheduled Delivery Date")
+            </th>
+
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+
+@section Scripts {
+    @Scripts.Render("~/Views/Order/Order.js")
+}

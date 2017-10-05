@@ -68,3 +68,38 @@ E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoic
 E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\obj\Debug\IncubXpertInvoicing.Ui.Mvc.Tests.csprojResolveAssemblyReference.cache
 E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\obj\Debug\IncubXpertInvoicing.Ui.Mvc.Tests.dll
 E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\obj\Debug\IncubXpertInvoicing.Ui.Mvc.Tests.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\IncubXpertInvoicing.Ui.Mvc.Tests.dll.config
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\IncubXpertInvoicing.Ui.Mvc.Tests.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\IncubXpertInvoicing.Ui.Mvc.Tests.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\IncubXpertInvoicing.Ui.Mvc.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Net.Http.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Http.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Razor.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\IncubXpertInvoicing.Ui.Mvc.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Net.Http.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Http.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.Razor.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\obj\Debug\IncubXpertInvoicing.Ui.Mvc.Tests.csprojResolveAssemblyReference.cache
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\obj\Debug\IncubXpertInvoicing.Ui.Mvc.Tests.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc.Tests\obj\Debug\IncubXpertInvoicing.Ui.Mvc.Tests.pdb

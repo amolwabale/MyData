@@ -6,10 +6,10 @@ using System.Web.Mvc;
 
 namespace IncubXpertInvoicing.Ui.Mvc.Controllers
 {
-    public class OrderSearchController : Controller
+    public class OrderController : Controller
     {
         //
-        // GET: /OrderSearch/
+        // GET: /Order/
 
         public ActionResult Index()
         {
