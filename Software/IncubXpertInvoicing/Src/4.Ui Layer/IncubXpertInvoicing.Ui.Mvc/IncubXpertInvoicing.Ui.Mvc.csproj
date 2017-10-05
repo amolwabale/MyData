@@ -135,6 +135,7 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\CustomerMasterController.cs" />
     <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Controllers\ProductMasterController.cs" />
     <Compile Include="Global.asax.cs">
@@ -232,6 +233,8 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\popper.js" />
     <Content Include="Scripts\_references.js" />
+    <Content Include="Views\CustomerMaster\CustomerMasterSearch.js" />
+    <Content Include="Views\CustomerMaster\CustomerMasterDetail.js" />
     <Content Include="Views\Order\OrderDetail.js" />
     <Content Include="Views\Order\OrderSearch.js" />
     <Content Include="Views\ProductMaster\ProductMasterDetail.js" />
@@ -251,6 +254,8 @@
     <Content Include="Views\Order\OrderDetail.cshtml" />
     <Content Include="Views\ProductMaster\ProductMasterSearch.cshtml" />
     <Content Include="Views\ProductMaster\ProductMasterDetail.cshtml" />
+    <Content Include="Views\CustomerMaster\CustomerMasterSearch.cshtml" />
+    <Content Include="Views\CustomerMaster\CustomerMasterDetail.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

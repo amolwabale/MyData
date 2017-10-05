@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CustomerMasterBl.cs" />
     <Compile Include="OrderBl.cs" />
     <Compile Include="ProductMasterBl.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
