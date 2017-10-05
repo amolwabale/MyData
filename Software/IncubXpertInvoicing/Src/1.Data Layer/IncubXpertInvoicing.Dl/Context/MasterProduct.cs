@@ -16,7 +16,7 @@ namespace IncubXpertInvoicing.Dl.Context
     {
         public MasterProduct()
         {
-            this.OrderLineItems = new HashSet<OrderLineItem>();
+            this.OrderLineItems = new List<OrderLineItem>();
         }
     
         public int Id { get; set; }
@@ -25,6 +25,6 @@ namespace IncubXpertInvoicing.Dl.Context
         public int Rate { get; set; }
         public int GstRate { get; set; }
     
-        public virtual ICollection<OrderLineItem> OrderLineItems { get; set; }
+        public virtual IList<OrderLineItem> OrderLineItems { get; set; }
     }
 }

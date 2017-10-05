@@ -79,6 +79,9 @@ D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoic
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\IncubXpertInvoicing.Ui.Mvc.pdb
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\Antlr3.Runtime.dll
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\EntityFramework.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\EntityFramework.SqlServer.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\IncubXpertInvoicing.Bl.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\IncubXpertInvoicing.Cmn.AppUtils.dll
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\IncubXpertInvoicing.Dl.dll
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\Microsoft.Web.Infrastructure.dll
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
@@ -97,7 +100,10 @@ D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoic
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\System.Web.WebPages.Razor.dll
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\WebGrease.dll
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\IncubXpertInvoicing.Dl.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\IncubXpertInvoicing.Bl.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\IncubXpertInvoicing.Cmn.AppUtils.pdb
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\EntityFramework.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\EntityFramework.SqlServer.xml
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\Newtonsoft.Json.xml
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\System.Net.Http.xml
 D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\4.Ui Layer\IncubXpertInvoicing.Ui.Mvc\bin\System.Net.Http.Formatting.xml

@@ -12,6 +12,7 @@ namespace IncubXpertInvoicing.Ui.Mvc
                         "~/Scripts/jquery-3.2.1.js",
                         "~/Scripts/popper.js",
                         "~/Scripts/bootstrap.js",
+                        "~/Scripts/jquery.dataTables.js",
                         "~/Scripts/Global.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryui").Include(
@@ -30,7 +31,9 @@ namespace IncubXpertInvoicing.Ui.Mvc
                         "~/Content/site.css",
                         "~/Content/bootstrap.css",
                         "~/Content/bootstrap-grid.css",
-                        "~/Content/bootstrap-reboot.css"));
+                        "~/Content/bootstrap-reboot.css",
+                        "~/Content/jquery.Datatable.css",
+                        "~/Content/font-awesome.css"));
 
             bundles.Add(new StyleBundle("~/Content/themes/base/css").Include(
                         "~/Content/themes/base/jquery.ui.core.css",

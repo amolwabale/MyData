@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="55575c06a9794177ab27ca6e34b6a0a6" Name="Diagram1">
+      <Diagram DiagramId="11a12529a1024fb1aa5edd1b6a6ed02c" Name="Diagram1">
         <EntityTypeShape EntityType="IncubXpertInvoicingModel.MasterCustomer" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
         <EntityTypeShape EntityType="IncubXpertInvoicingModel.MasterProduct" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
         <EntityTypeShape EntityType="IncubXpertInvoicingModel.Order" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />

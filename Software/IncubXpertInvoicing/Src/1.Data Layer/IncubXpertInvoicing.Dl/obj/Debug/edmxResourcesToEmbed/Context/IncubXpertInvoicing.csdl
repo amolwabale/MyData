@@ -87,7 +87,7 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="IncubXpertInvoicingDb" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="MasterCustomers" EntityType="Self.MasterCustomer" />
     <EntitySet Name="MasterProducts" EntityType="Self.MasterProduct" />
     <EntitySet Name="Orders" EntityType="Self.Order" />

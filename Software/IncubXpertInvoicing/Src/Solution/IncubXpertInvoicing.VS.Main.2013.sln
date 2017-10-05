@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncubXpertInvoicing.Dl", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncubXpertInvoicing.Cmn.AppUtils", "..\5.Common Layer\IncubXpertInvoicing.Cmn.AppUtils\IncubXpertInvoicing.Cmn.AppUtils.csproj", "{F10D6882-0163-4B5F-B6AB-86037127036E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncubXpertInvoicing.Bl", "..\2.Business Layer\IncubXpertInvoicing.Bl\IncubXpertInvoicing.Bl.csproj", "{3EA4F67F-83D8-42FD-8587-63C974754598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,12 +45,17 @@ Global
 		{F10D6882-0163-4B5F-B6AB-86037127036E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F10D6882-0163-4B5F-B6AB-86037127036E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F10D6882-0163-4B5F-B6AB-86037127036E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA4F67F-83D8-42FD-8587-63C974754598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA4F67F-83D8-42FD-8587-63C974754598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA4F67F-83D8-42FD-8587-63C974754598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA4F67F-83D8-42FD-8587-63C974754598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{67AA1915-F14D-4F6C-B2EF-2496EF4C36DD} = {6730636F-D462-4B51-8DEA-1056EA1B2AEC}
+		{3EA4F67F-83D8-42FD-8587-63C974754598} = {40F7279E-D4F4-4A2A-A468-387FE984AAC5}
 		{3B0E8B30-6122-4C4D-A64F-84F327DA5090} = {1B15FA68-DE55-4E04-A676-2DC0FD68135E}
 		{54054653-1E70-4406-A990-71822ECF036B} = {1B15FA68-DE55-4E04-A676-2DC0FD68135E}
 		{F10D6882-0163-4B5F-B6AB-86037127036E} = {05BC529F-44D8-46B4-8FBB-F4FEB2052DB7}

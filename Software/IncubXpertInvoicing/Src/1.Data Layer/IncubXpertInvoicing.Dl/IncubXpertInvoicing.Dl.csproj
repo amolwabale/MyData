@@ -79,13 +79,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <EntityDeploy Include="Context\IncubXpertInvoicing.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>IncubXpertInvoicing.Designer.cs</LastGenOutput>
     </EntityDeploy>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
     <None Include="Context\IncubXpertInvoicing.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>IncubXpertInvoicing.edmx</DependentUpon>

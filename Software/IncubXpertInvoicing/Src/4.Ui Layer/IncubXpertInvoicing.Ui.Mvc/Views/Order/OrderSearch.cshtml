@@ -1,17 +1,21 @@
 ﻿@model IncubXpertInvoicing.Dl.Context.Order
 
 @{
-    ViewBag.Title = "OrderSearch";
+    ViewBag.Title = "Order Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <table id="idOrderTable" style="width: 100%;" class="table table-condensed table-hover">
     <thead>
         <tr class="">
             <th>
-                <button type="button" id="idAddOrder" href="javascript:void(0);"
-                        title="Add New Order" class="btn btn-primary btn-sm">
-                    <span class="fa fa-plus"></span>New
-                </button>
+                <a id="idAddOrder" href="/Order/OrderDetail"
+                   title="Add New Order" class="btn btn-primary btn-sm">
+                    <span class="fa fa-plus"></span>&nbsp&nbsp&nbspNew
+                </a>
+            </th>
+            <th>
+                Action
             </th>
             <th style="">
                 @Html.Label("Order Id")
@@ -33,5 +37,5 @@
 
 
 @section Scripts {
-    @Scripts.Render("~/Views/Order/Order.js")
+    @Scripts.Render("~/Views/Order/OrderSearch.js")
 }

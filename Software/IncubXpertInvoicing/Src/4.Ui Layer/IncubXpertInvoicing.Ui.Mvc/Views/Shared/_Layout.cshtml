@@ -7,8 +7,6 @@
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 </head>
-
-
 <body>
     <div style="background-color: #ddd; height: 60px; display: none">
         <table>
@@ -19,30 +17,19 @@
                 <td>
                     <br />
                     Invoicing Solution
-
                 </td>
             </tr>
         </table>
-        @*<div class="row">
-                <div class="col-2">
-                    Invoicing Solution
-                </div>
-                <div class="col-10">
-                    @RenderBody()
-                </div>
-            </div>*@
-
     </div>
     <div style="height:15px;background-color:#f4f4f4; "></div>
     <div class="col-12" style="height: 89vh; ">
         <div class="row" style="height:89vh">
             <div class="col-2" style="border-right:solid 1px grey; height:89vh; padding:0">
                 <ul class="list-group">
-                    <li id="idOrderSidemenuItem" class="sidebar disabled">Orders</li>
+                    <li id="idOrderSidemenuItem" class="sidebar disabled"><a href="/Order">Orders</a></li>
                     <li id="idProductMasterSidemenuItem" class="sidebar">Product Master</li>
                     <li id="idCustomerMasterSidemenuItem" class="sidebar">Customer Master</li>
                 </ul>
-
             </div>
             <div class="col-10">@RenderBody()</div>
         </div>
