@@ -29,7 +29,11 @@
                         {
                             data: null,
                             className: "center",
-                            defaultContent: '<a href="#" title="Edit" ><span class="fa fa-edit"></span></a>&nbsp&nbsp&nbsp<a  href="#" title="View" ><span class="fa fa-eye"></span></a>'
+                            render: function (data, type, row) {
+                                var str = '<a href="/CustomerMaster/ViewCustomer?Id=' + data[0] + '" title="Edit" ><span class="fa fa-edit"></span></a>&nbsp&nbsp&nbsp' +
+                                    '<a style="display:none"  href="/CustomerMaster/DeleteCustomer?Id=' + data[0] + '" title="Delete" ><span class="fa fa-trash-o"></span></a>';
+                                return str;
+                            }
                         },
                         { data: 0 },
                         { data: 1 },
