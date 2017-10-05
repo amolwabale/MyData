@@ -1,0 +1,4 @@
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\5.Common Layer\IncubXpertInvoicing.Cmn.AppUtils\bin\Debug\IncubXpertInvoicing.Cmn.AppUtils.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\5.Common Layer\IncubXpertInvoicing.Cmn.AppUtils\bin\Debug\IncubXpertInvoicing.Cmn.AppUtils.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\5.Common Layer\IncubXpertInvoicing.Cmn.AppUtils\obj\Debug\IncubXpertInvoicing.Cmn.AppUtils.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\5.Common Layer\IncubXpertInvoicing.Cmn.AppUtils\obj\Debug\IncubXpertInvoicing.Cmn.AppUtils.pdb

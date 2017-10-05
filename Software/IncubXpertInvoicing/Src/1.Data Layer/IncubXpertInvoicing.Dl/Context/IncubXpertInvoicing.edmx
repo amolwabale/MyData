@@ -196,7 +196,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="IncubXpertInvoicingDb" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="MasterCustomers" EntityType="Self.MasterCustomer" />
           <EntitySet Name="MasterProducts" EntityType="Self.MasterProduct" />
           <EntitySet Name="Orders" EntityType="Self.Order" />
@@ -219,7 +219,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="IncubXpertInvoicingModelStoreContainer" CdmEntityContainer="Entities">
+        <EntityContainerMapping StorageEntityContainer="IncubXpertInvoicingModelStoreContainer" CdmEntityContainer="IncubXpertInvoicingDb">
           <EntitySetMapping Name="MasterCustomers">
             <EntityTypeMapping TypeName="IncubXpertInvoicingModel.MasterCustomer">
               <MappingFragment StoreEntitySet="MasterCustomer">

@@ -16,3 +16,12 @@ E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvo
 E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.SqlServer.xml
 E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\obj\Debug\IncubXpertInvoicing.Dl.dll
 E:\IT\GitHub\MyData\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\obj\Debug\IncubXpertInvoicing.Dl.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\IncubXpertInvoicing.Dl.dll.config
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\IncubXpertInvoicing.Dl.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\IncubXpertInvoicing.Dl.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\obj\Debug\IncubXpertInvoicing.Dl.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\1.Data Layer\IncubXpertInvoicing.Dl\obj\Debug\IncubXpertInvoicing.Dl.pdb

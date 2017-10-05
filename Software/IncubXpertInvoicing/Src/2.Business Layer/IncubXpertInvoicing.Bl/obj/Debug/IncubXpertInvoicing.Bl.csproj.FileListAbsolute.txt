@@ -1,0 +1,13 @@
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\IncubXpertInvoicing.Bl.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\IncubXpertInvoicing.Bl.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\EntityFramework.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\EntityFramework.SqlServer.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\IncubXpertInvoicing.Cmn.AppUtils.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\IncubXpertInvoicing.Dl.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\IncubXpertInvoicing.Dl.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\IncubXpertInvoicing.Cmn.AppUtils.pdb
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\EntityFramework.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\bin\Debug\EntityFramework.SqlServer.xml
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\obj\Debug\IncubXpertInvoicing.Bl.csprojResolveAssemblyReference.cache
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\obj\Debug\IncubXpertInvoicing.Bl.dll
+D:\Amol Wabale\Data\Software\IncubXpertInvoicing\Src\2.Business Layer\IncubXpertInvoicing.Bl\obj\Debug\IncubXpertInvoicing.Bl.pdb

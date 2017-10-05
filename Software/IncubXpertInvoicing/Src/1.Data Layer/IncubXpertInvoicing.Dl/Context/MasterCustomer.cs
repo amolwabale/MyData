@@ -16,7 +16,7 @@ namespace IncubXpertInvoicing.Dl.Context
     {
         public MasterCustomer()
         {
-            this.Orders = new HashSet<Order>();
+            this.Orders = new List<Order>();
         }
     
         public int Id { get; set; }
@@ -27,6 +27,6 @@ namespace IncubXpertInvoicing.Dl.Context
         public string ContactNo { get; set; }
         public string EmailId { get; set; }
     
-        public virtual ICollection<Order> Orders { get; set; }
+        public virtual IList<Order> Orders { get; set; }
     }
 }

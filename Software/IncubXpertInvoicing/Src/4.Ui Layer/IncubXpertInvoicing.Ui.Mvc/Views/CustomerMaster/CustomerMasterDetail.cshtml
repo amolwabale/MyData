@@ -1,0 +1,68 @@
+﻿@model IncubXpertInvoicing.Dl.Context.MasterCustomer
+@{
+    ViewBag.Title = "CustomerMasterDetails";
+}
+
+
+<form id="idFormCustomerMaster" method="post" action="/CustomerMaster/SaveCustomerMaster">
+    <fieldset>
+        <legend>Customer Master </legend>
+        @Html.HiddenFor(model => model.Id)
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Name)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.Name, new { @style = "width:40%" })
+            @Html.ValidationMessageFor(model => model.Name)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Address)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.Address, new { @style = "width:40%" })
+            @Html.ValidationMessageFor(model => model.Address)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.City)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.City, new { @style = "width:40%" })
+            @Html.ValidationMessageFor(model => model.City)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Pincode)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.Pincode, new { @style = "width:40%" })
+            @Html.ValidationMessageFor(model => model.Pincode)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ContactNo)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.ContactNo, new { @style = "width:40%" })
+            @Html.ValidationMessageFor(model => model.ContactNo)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.EmailId)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.EmailId, new { @style = "width:40%" })
+            @Html.ValidationMessageFor(model => model.EmailId)
+        </div>
+
+        <br />
+        <a type="button" class="btn btn-primary" href="/CustomerMaster">Back</a>
+        <button id="idBtnSaveCustomerMaster" type="submit" class="btn btn-success">Save</button>
+
+    </fieldset>
+</form>
+
+@section Scripts {
+    @Scripts.Render("~/Views/CustomerMaster/CustomerMasterDetail.js")
+}

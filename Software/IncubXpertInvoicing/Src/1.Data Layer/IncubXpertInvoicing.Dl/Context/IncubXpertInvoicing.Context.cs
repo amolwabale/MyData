@@ -13,10 +13,10 @@ namespace IncubXpertInvoicing.Dl.Context
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class Entities : DbContext
+    public partial class IncubXpertInvoicingDb : DbContext
     {
-        public Entities()
-            : base("name=Entities")
+        public IncubXpertInvoicingDb()
+            : base("name=IncubXpertInvoicingDb")
         {
         }
     

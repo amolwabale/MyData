@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "CustomerMasterSearch";
+}
+
+<table id="idCustomerMasterTable" style="width: 100%;" class="table table-condensed table-hover">
+    <thead>
+        <tr class="">
+            <td>
+                <a id="idAddCustomer" href="/CustomerMaster/CustomerMasterDetail" type="button"
+                   title="Add New Customer" class="btn btn-primary btn-sm">
+                    <span class="fa fa-plus"></span>&nbsp&nbsp&nbspNew
+                </a>
+            </td>
+            <td style="">
+                Action
+            </td>
+            <td style="">
+                @Html.Label("Id")
+            </td>
+            <td style="">
+                @Html.Label("Name")
+            </td>
+            <td style="">
+                @Html.Label("Address")
+            </td>
+            <td style="">
+                @Html.Label("City")
+            </td>
+            <td style="">
+                @Html.Label("Pincode")
+            </td>
+            <td style="">
+                @Html.Label("Contact Num.")
+            </td>
+            <td style="">
+                @Html.Label("Email Id")
+            </td>
+
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+@section Scripts {
+    @Scripts.Render("~/Views/CustomerMaster/CustomerMasterSearch.js")
+}
+
+
